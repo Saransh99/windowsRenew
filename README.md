@@ -1,0 +1,1 @@
+Open the app in the admin mode
